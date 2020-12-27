@@ -21,7 +21,7 @@ Estudo sobre placeholder animado
 	</tr>
 	<tr>
 		<td>
-			<img width="1080" src="https://github.com/carlosjunior1983/placeholder_animado/blob/master/placeholder.png">
+			<img width="570" src="https://github.com/carlosjunior1983/placeholder_animado/blob/master/placeholder.png">
 		</td>
 	</tr>
 </table>
